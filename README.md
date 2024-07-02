@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 Live Demo:
-https://leo-tsant.github.io/Tic-Tac-Toe/
+https://leo-tsant.github.io/tic-tac-toe/
 
 ![Project Screenshot](./Images/tic-tac-toe.png)
 
